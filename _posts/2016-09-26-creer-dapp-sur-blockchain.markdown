@@ -16,5 +16,5 @@ Qu’est-ce que la blockchain ?
 
 La blockchain est une base de donnée distribuée où l'on peut enregistrer des données sans passer par un intermédiaire. La blockchain la plus connue est [Bitcoin][Bitcoin] qui permet de s’échanger des __token__, c’est une forme de cryptomonnaie. Ces transactions sont validés par des mineurs, qui partage une partie de leur puissance de calcul numérique (n’importe qui avec son ordinateur peut miner). Etherum reprend cette technologie et la généralise pour construire des applications, pas seulement une *monnaie*, sur la blockchain. Concrètement, il s’agit de développer un smart contract avec la logique de l’application et de la pousser dans la blockchain ethereum.
 
-[Etherum]: https://www.ethereum.org/
+[Ethereum]: https://www.ethereum.org/
 [Bitcoin]: https://bitcoin.org/fr/
