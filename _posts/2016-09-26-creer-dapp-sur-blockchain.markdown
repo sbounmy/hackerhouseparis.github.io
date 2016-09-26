@@ -14,20 +14,20 @@ problème. Ils préféraient simplement pouvoir commencer à gagner et dépenser
 quelques “coins”. En outre, il ne sont pas encore corrompus par la psychologie
 du système de carte de crédit, qui veut qu’il est plus simple d’obtenir de
 l’argent rapidement et temporairement en suppliant plutôt qu’en produisant. La
-psychologie que ces jeunes adopteteront sera, dans 10 ou 20 ans, celle qui
+psychologie que ces jeunes adopteront sera, dans 10 ou 20 ans, celle qui
 conduira la psychologie de la société.
 > - Vitalik Buterin (17ans à l’écriture de ce post), fondateur d’Ethereum,
 28/02/2012
 
-[Ethereum][Ethereum] est une __plateforme décentralisé__ et distribué pour
-lancer des __smart contrats__ (ou programme autonome sur une blockchain). Cette
+[Ethereum][Ethereum] est une __plateforme décentralisée__ et distribuée pour
+lancer des __smart contrats__ (où programmes autonomes sur une blockchain). Cette
 plateforme est un ordinateur à l’échelle mondiale. Il est toujours accessible et
 n’importe qui peut programmer un smart contrat dessus. Cet ordinateur global est
-formé à partir de milliers d'ordinateurs réparti sur toute la planète, ces
+formé à partir de milliers d'ordinateurs répartis sur toute la planète, ces
 ordinateurs sont appelés les __mineurs__. Ils utilisent  une base de
-__données distribuée__ appelé __blockchain__ pour partager les transactions et
-les programmes entre eux. Les données sont __décentralisé__, __persistantes__,
-sur une réseau __peer-to-peer__. Il n’y a donc pas de “single point of failure”.
+__données distribuée__ appelée __blockchain__ pour partager les transactions et
+les programmes entre eux. Les données sont __décentralisées__, __persistantes__,
+sur un réseau __peer-to-peer__. Avantage : il n’y a pas de “single point of failure”.
 
 ![Ethereum](http://i.stack.imgur.com/hDDzg.png)
 
@@ -36,8 +36,8 @@ Qu’est-ce que la blockchain ?
 
 La blockchain est une base de donnée distribuée où l'on peut enregistrer des
 données sans passer par un intermédiaire. La blockchain la plus connue est
-[Bitcoin][Bitcoin] qui permet de s’échanger des __token__, c’est une forme de
-cryptomonnaie. Ces transactions sont validés par des mineurs, qui partage une
+[Bitcoin][Bitcoin] qui permet de s’échanger des __tokens__, c’est une forme de
+cryptomonnaie. Ces transactions sont validées par des mineurs, qui partagent une
 partie de leur puissance de calcul numérique (n’importe qui avec son ordinateur
 peut miner). Etherum reprend cette technologie et la généralise pour construire
 des applications, pas seulement une *monnaie*, sur la blockchain. Concrètement,
@@ -49,12 +49,11 @@ Comment valider les blocs ?
 
 Le registre de la blockhain peut être modifié par un ou plusieurs mineurs. Alors
 comment s’assurer de la légitimité de celle-ci ? La validité de la blockchain
-est assuré par le __consensus des noeuds__ du réseau distribué. Si un block est
-validé par la mojorité des mineurs, il est considéré comme valide. Cette preuve
-de validité d’un bloc est appelé __proof-of-work__. Trouver cette preuve demande
-beaucoup de ressource. Trouver cette preuve demande énormément de ressource.
-C'est pourquoi, à chaque ajouté à la blockchain, le mineur se voit verser un
-certain nombre montant de cryptomonnaie, fraîchement créée. La complexité ainsi
+est assurée par le __consensus des noeuds__ du réseau distribué. Principe : si un block est
+validé par la majorité des mineurs, il est considéré comme valide. Cette preuve
+de validité d’un bloc est appelé __proof-of-work__. Trouver cette preuve demande énormément de ressource.
+C'est pourquoi, pour chaque ajout à la blockchain, le mineur se voit verser un
+certain montant de cryptomonnaie, fraîchement créée. La complexité ainsi
 que le chaînage des uns à la suite des autres font qu'il est difficile de
 falsifier ou supprimer les données de la blockchain. Pour modifier les données
 d'un bloc, il faut refaire valider l'ensemble des blocs qui le suivent, avant
