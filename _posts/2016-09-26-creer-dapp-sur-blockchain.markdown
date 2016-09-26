@@ -29,7 +29,7 @@ __données distribuée__ appelé __blockchain__ pour partager les transactions e
 les programmes entre eux. Les données sont __décentralisé__, __persistantes__,
 sur une réseau __peer-to-peer__. Il n’y a donc pas de “single point of failure”.
 
-![Etherum](http://i.stack.imgur.com/hDDzg.png)
+![Ethereum](http://i.stack.imgur.com/hDDzg.png)
 
 Qu’est-ce que la blockchain ?
 =============================
@@ -60,7 +60,19 @@ falsifier ou supprimer les données de la blockchain. Pour modifier les données
 d'un bloc, il faut refaire valider l'ensemble des blocs qui le suivent, avant
 qu'un autre noeud n'ajoute un nouveau bloc à la chaîne.
 
+Bibliographie
+=============
+
+- [Ethereum][Ethereum]: site officiel d'Ethereum
+- [Ethstats][Ethstats]: statistiques sur Ethereum
+- [Etherchain][Etherchain]: statistiques sur Ethereum
+- [jefflau.net][jefflau.net]: introduction à Ethereum
+- Programmez!#199: introduction à la programmation sur Ethereum
+- O'Reilly blockhain: introduction à la technologie de Bitcoin
 
 
 [Ethereum]: https://www.ethereum.org/
 [Bitcoin]: https://bitcoin.org/fr/
+[Ethstats]: https://ethstats.net/
+[Etherchain]: https://www.etherchain.org/
+[jefflau.net]: http://jefflau.net/how-to-start-developing-on-ethereum-for-web-developers/
