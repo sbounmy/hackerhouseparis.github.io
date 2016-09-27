@@ -5,7 +5,7 @@ Tech blog of hackerhouse.paris
 
 Git Clone(http://github.io)
 <br>
-chmod +x Hackaton.ether && ./Hackaton.ether .
+sudo chmod +x develop.sh && sudo ./develop.sh .
 
 ## License
 
